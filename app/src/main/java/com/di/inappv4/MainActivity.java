@@ -56,10 +56,9 @@ public class MainActivity extends AppCompatActivity {
                                 if (purchase.getPurchaseState() == Purchase.PurchaseState.PURCHASED &&
                                 !purchase.isAcknowledged()){
 
-                                   // verifyPurchase(purchase);
+                                    //verifyPurchase(purchase);
 
-
-
+//this is a comment
                                 }
 
                             }
